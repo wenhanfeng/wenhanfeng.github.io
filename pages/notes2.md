@@ -1,8 +1,8 @@
 ---
 layout: Post
-permalink: /notes1
+permalink: /notes2
 feedformat: card
-title: Planning and Design
+title: Decision Support Tool
 ---
 
 My research areas mainly include `urban planning and urban design`, `agent-based modeling`, `quantification of urban and social resilience`, and `urban geography`.
