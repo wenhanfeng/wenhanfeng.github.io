@@ -5,4 +5,4 @@ feedformat: card
 title: ————
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+My research areas mainly include `urban planning and urban design`, `agent-based modeling`, `quantification of urban and social resilience`, and `urban geography`.
