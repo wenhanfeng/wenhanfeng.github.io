@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "01df3fc8f83e99a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "162236bcc890f6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5953dfe106f8814a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Credits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78cd14ed8cf2bf7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "606e56000dec72a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ede3c6c213da88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bedd7b71ac626f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25c421913a0d2070",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35fa5fcc9b57214f",
+    "type": "split",
+    "children": [
+      {
+        "id": "105bc64355e6dd3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b9ae0da32de0f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/Credits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ae31b07d1c661a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Public/Credits.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e47fd69815f3c8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1354ebb7cab8a24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Public/Credits.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5953dfe106f8814a",
+  "lastOpenFiles": [
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Credits.md"
+  ]
+}
