@@ -5,4 +5,4 @@ feedformat: card
 title: Decision Support Tool
 ---
 
-I also try to develop tools to assist planners (myself included) in making planning decisions. Mainly based on geographic modeling methods. This page shows those ideas.
+I also try to develop tools to assist planners (myself included) in `making planning decisions`. Mainly based on `geographic modeling` methods. This page shows those ideas.
