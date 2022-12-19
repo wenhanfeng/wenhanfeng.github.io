@@ -5,4 +5,4 @@ feedformat: card
 title: Scientific Research
 ---
 
-My research areas mainly include `urban planning and urban design`, `agent-based modeling`, `quantification of urban and social resilience`, and `urban geography`.
+This page documents my `research work`, which can be described as article-oriented. It uses a variety of `quantitative analysis and qualitative analysis methods`, including the study of the law of urban development, as well as the study of regional policies.

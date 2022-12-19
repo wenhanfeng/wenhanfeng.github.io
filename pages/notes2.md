@@ -5,4 +5,4 @@ feedformat: card
 title: Decision Support Tool
 ---
 
-My research areas mainly include `urban planning and urban design`, `agent-based modeling`, `quantification of urban and social resilience`, and `urban geography`.
+I also try to develop tools to assist planners (myself included) in making planning decisions. Mainly based on geographic modeling methods. This page shows those ideas.
