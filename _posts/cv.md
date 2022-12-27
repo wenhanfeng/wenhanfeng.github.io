@@ -1,6 +1,7 @@
 ---
 
 title: Wenhan CV
+permalink: /cv
 
 ---
 
