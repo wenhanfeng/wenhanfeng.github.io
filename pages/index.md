@@ -6,4 +6,3 @@ layout: Post
 permalink: /
 title: Wenhan Feng
 ---
-<img src="../assets/img/s-p1.png" width="100%">
