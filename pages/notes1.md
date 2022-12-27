@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: Post1
 permalink: /notes1
 feedformat: card
 title: Planning and Design
