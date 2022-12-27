@@ -2,7 +2,7 @@
 
 layout: Post
 permalink: /blog
-feedformat: card
+format: list
 title: Blog
 
 ---
