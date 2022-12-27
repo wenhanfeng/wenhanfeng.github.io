@@ -1,8 +1,8 @@
 ---
 
 layout: Post
-title: Blog
 permalink: /blog
+title: Blog
 
 ---
 

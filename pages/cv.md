@@ -1,7 +1,7 @@
 ---
 layout: Post
-title: Wenhan CV
 permalink: /cv
+title: Wenhan CV
 
 ---
 
