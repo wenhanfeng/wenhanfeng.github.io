@@ -1,6 +1,7 @@
 ---
 layout: Post
 permalink: /cv
+feedformat: card
 title: Wenhan CV
 
 ---

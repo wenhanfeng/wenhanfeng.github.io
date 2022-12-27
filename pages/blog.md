@@ -2,6 +2,7 @@
 
 layout: Post
 permalink: /blog
+feedformat: card
 title: Blog
 
 ---
