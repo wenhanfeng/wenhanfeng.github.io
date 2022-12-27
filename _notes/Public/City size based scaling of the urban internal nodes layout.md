@@ -14,3 +14,5 @@ The size of a city is not only essential for depicting the scale of the urban sy
 ![](https://doi.org/10.1371/journal.pone.0250348.g003)
 ![](https://doi.org/10.1371/journal.pone.0250348.g004)
 ![](https://doi.org/10.1371/journal.pone.0250348.g005)
+<img src="../assets/img/s-p1.png" width="100%">
+<img src="https://doi.org/10.1371/journal.pone.0250348.g001" width="100%">
