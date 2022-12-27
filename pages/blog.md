@@ -1,6 +1,6 @@
 ---
 
-layout: Post
+layout: blog
 permalink: /blog
 format: list
 title: Blog

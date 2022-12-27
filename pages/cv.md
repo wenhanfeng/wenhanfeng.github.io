@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: page
 permalink: /cv
 format: list
 title: Wenhan CV
