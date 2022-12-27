@@ -1,6 +1,9 @@
 ---
+
+layout: Post
 title: Blog
 permalink: /blog
+
 ---
 
 
