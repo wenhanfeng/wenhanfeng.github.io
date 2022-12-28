@@ -10,7 +10,7 @@ The role of urban design and urban space creation in improving the living enviro
 
 **Technical Route**
 
-<img src="../assets/img/acs-p0.png" width="100%">
+<img src="../assets/img/acs-p0.jpg" width="100%">
 
 **Quantitative Analysis and Spatial Evaluation**
 
