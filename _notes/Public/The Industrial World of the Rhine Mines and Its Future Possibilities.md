@@ -8,10 +8,6 @@ date : 27-12-2021
 
 The process of climate neutrality has an impact on all aspects of urban society. These huge influences make climate neutrality an opportunity for regional transformation, especially for regions with relatively weak economic structures. Aachen is a traditional industrial area in Europe, and the “Rheinische Revier”(Rhine Mines) where it is located is one of the important industrial and mining areas in Germany. In particular, the open-pit mining of lignite has had a major impact on the landscape and socio-ecology here. The huge and spectacular Garzweiler open-pit mine, the Hambach open-pit mine and other surrounding coal mines of various sizes together form the largest lignite mining area in Europe. RWE controls the lignite industry chain and is also one of the economic pillars of the region. The implementation of the structural change plan in the region started around 2011, and its main goal is to close all lignite mines by 2038, completely phase out lignite and achieve carbon neutrality. In the context of this structural change, this study quantifies the changing corporate world in the region, explores possible future development scenarios based on urban and social development trends, and provides strategies for the sustainable development of the region.
 
-**Research Object**
-
-<img src="../assets/img/M3-0.png" width="50%">
-
 **Actor Analysis**
 
 <img src="../assets/img/M3-1.png" width="100%">
