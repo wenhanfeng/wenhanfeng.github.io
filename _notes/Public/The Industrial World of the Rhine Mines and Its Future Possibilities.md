@@ -10,7 +10,7 @@ The process of climate neutrality has an impact on all aspects of urban society.
 
 **Research Object**
 
-<img src="../assets/img/M3-0.png" width="100%">
+<img src="../assets/img/M3-0.png" width="50%">
 
 **Actor Analysis**
 

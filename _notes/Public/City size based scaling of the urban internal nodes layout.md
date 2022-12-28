@@ -10,7 +10,7 @@ The size of a city is not only essential for depicting the scale of the urban sy
 
 <img src="../assets/img/s-p1.png" width="100%">
 
-*Visualization of the datasets used in this study. a) The division of Shandong province into 95 cities; b) Spatial pattern of three types of datasets of Qingdao; c) Spatial pattern of all the datasets of Qingdao. © OpenStreetMap contributors.*
+*Fig 1. Visualization of the datasets used in this study. a) The division of Shandong province into 95 cities; b) Spatial pattern of three types of datasets of Qingdao; c) Spatial pattern of all the datasets of Qingdao. © OpenStreetMap contributors.*
 
 **Study Area**
 
@@ -20,14 +20,14 @@ The selection of the study area is critical to ensure accurate data fitting and 
  3. To avoid statistical errors, there should be no overpopulated and undersized cities in the study area
 Given these prerequisites, Shandong, China was chosen to be the target region in this study, which is located along the east coastline in China. Compared to other provinces, the cities of Shandong province have smaller gap in development but stronger hierarchical structure in size, which guarantees a more consistent data sample.
 
- **Data**
+**Data**
 
  1. Central Point of Road Intersection data(CPRI).
  2. Points Of Interest data(POI).
  3. Weibo check-in data(LBS).
  4. GDP data from statistical yearbook.
 
- **Results**
+**Results**
 
 <img src="../assets/img/s-t1.png" width="100%">
 
