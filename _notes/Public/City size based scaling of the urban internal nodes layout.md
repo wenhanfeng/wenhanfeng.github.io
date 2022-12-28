@@ -29,11 +29,12 @@ Given these prerequisites, Shandong, China was chosen to be the target region in
 
  **Results**
 
-<img src="../assets/img/s-p2.png" width="100%">
+<img src="../assets/img/s-t1.png" width="100%">
 
 *Table 1. Statistics results of 16 prefecture-level cities.*
 
 <img src="../assets/img/s-p2.png" width="100%">
+<img src="../assets/img/s-p2.2.png" width="100%">
 
 *Fig 2. Visualization of data statistics. a) Log(x) of POI; b) Log(x) of the center points of road intersections; c) Log(x) of LBS; d) Log(x) of POI data and spatial pattern of Jinan Municipality.*
 
