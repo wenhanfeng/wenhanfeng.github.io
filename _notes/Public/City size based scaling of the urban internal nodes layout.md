@@ -63,3 +63,5 @@ Based on three different spatial data, this study verified the relationship of c
  5. We deduced the utility formula between urban development and urban structure. The utility formula can be applied to address regional inequality, and explained the differences in the urban development of cities with similar sizes from the perspective of urban structure. The derivation results prove that, in the case of the same population size, the urban structure that is scattered at the macro level and concentrated at the micro level has greater development potential.
 
 To summarize, this study achieved statistical laws existing in the layout of urban spatial elements and developed an approach to quantify the features of urban structures. It provided a new perspective of urban structure to understand the complexity of a city.
+
+`Collaborators: Bayi Li, Zebin Chen, Peng Liu.`

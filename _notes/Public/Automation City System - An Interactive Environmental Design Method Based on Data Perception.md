@@ -25,3 +25,5 @@ The role of urban design and urban space creation in improving the living enviro
 **Future Scenarios**
 
 <img src="../assets/img/acs-p5.png" width="100%">
+
+`Collaborators: Bayi Li, Xiaoran Guo.`
