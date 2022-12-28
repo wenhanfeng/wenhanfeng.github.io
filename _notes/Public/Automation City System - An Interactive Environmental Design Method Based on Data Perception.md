@@ -1,5 +1,5 @@
 ---
-title : Automation City System: An Interactive Environmental Design Method Based on Data Perception
+title : Automation City System - An Interactive Environmental Design Method Based on Data Perception
 feed: show
 date : 27-12-2021
 ---
