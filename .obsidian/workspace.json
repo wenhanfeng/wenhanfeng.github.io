@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_notes/Public/The Industrial World of the Rhine Mines and Its Future Possibilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_notes/Public/The Industrial World of the Rhine Mines and Its Future Possibilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_notes/Public/The Industrial World of the Rhine Mines and Its Future Possibilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Credits.md"
+                "file": "_notes/Public/The Industrial World of the Rhine Mines and Its Future Possibilities.md"
               }
             }
           }
@@ -138,6 +138,9 @@
   },
   "active": "5953dfe106f8814a",
   "lastOpenFiles": [
+    "_notes/Public/City size based scaling of the urban internal nodes layout.md",
+    "_notes/Public/Automation City System - An Interactive Environmental Design Method Based on Data Perception.md",
+    "_notes/Public/Adaptive Urban Planning in the Context of Climate Neutrality.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Welcome to the garden.md",
