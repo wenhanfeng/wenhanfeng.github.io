@@ -28,7 +28,7 @@ The project is located in the north of Qingdao City, south of Licun River, north
 
 *Plan*
 
-<img src="../assets/img/qd-6.png" width="100%">
+<img src="../assets/img/qd-7.png" width="100%">
 
 *Axonometric*
 
