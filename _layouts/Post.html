@@ -78,8 +78,10 @@
             <div class="column is-8-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                     {%- if site.preferences.homepage.enabled -%}
                             <!--- Show Homepage -->
-                            {%- include Homepage.html -%}
                             {%- include webweb.html -%}
+
+                            {%- include Homepage.html -%}
+
                             <br> <font size=0.5> Graph visualization comes from webweb, GNU General Public License v3+. Website template comes from Hiran Venugopalan, License CC-BY. </font>
                     {%- else -%}
                             <!--- Show Feed Part -->
