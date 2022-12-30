@@ -75,11 +75,11 @@
 
             <!-- Homepage Layout-->
             {%- if page.permalink == "/" -%}
-            <div class="column is-10-widescreen  is-8-desktop is-8-tablet is-12-mobile">
+            <div class="column is-8-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                     {%- if site.preferences.homepage.enabled -%}
                             <!--- Show Homepage -->
                             {%- include Homepage.html -%}
-                            {%- include webweb.html -%}
+                            
 
                     {%- else -%}
                             <!--- Show Feed Part -->
