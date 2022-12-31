@@ -21,10 +21,6 @@ With the development of China's urbanization process, the demand for land use ad
 
 *Evolution Rule*
 
-<img src="../assets/img/abm-3.png" width="100%">
-
-*Evolution Rule*
-
 <img src="../assets/img/abm-4.png" width="100%">
 
 *Evolution Process*
