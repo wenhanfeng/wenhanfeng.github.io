@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Personal Presentation</title>
+    <title>What ist the Future? W.H.A.T. is the Future!</title>
     <link href="imgs/logo.svg" rel="icon" type="image/svg"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <style type="text/css">
@@ -108,240 +108,26 @@ class: top, left
 
 
 
-<!-- Page 1.1 -->
+<!-- Page 1 -->
 
 ### Content
 
-**Research Topic**: simulating urbanisation patterns and interpreting the processes with multiple mechanisms
- 
-???
+<img src="0.jpg" width="100%">
 
-The article simulated the urbanisation process and try to interpret it with testing different combination of mechanisms at an aggregated level. 
 
----
-
-<!-- Page 1.2 -->
-
-### Content
-
-Research Topic: simulating urbanisation patterns and interpreting the processes with multiple mechanisms
-
-**Case Study**: simulate the evolution of cities during the Soviet and post-Soviet periods
-
-???
-
-Especially, it focus on a system of cities of the former souveit union before and after the clash.
-
----
-
-<!-- Page 1.3 -->
-
-### Content
-
-Research Topic: simulating urbanisation patterns and interpreting the processes with multiple mechanisms
-
-Case Study: simulate the evolution of cities during the Soviet and post-Soviet periods
-
-**Research Question**:
-
-- Which is the best model (parsimonious and accurate)?
-
-- Which are the essential mechanisms?
-
-- What are the cities that resist modelling?
-
-???
-
-It surrounds the research question of finding the best model from thousands of possible model alternatives. Also the essential mechanisms to compose the model. And how the individual city performed in the model.
-
----
-
-<!-- Page 1.4 -->
-
-### Content
-
-Research Topic: simulating urbanisation patterns and interpreting the processes with multiple mechanisms
-
-Case Study: simulate the evolution of cities during the Soviet and post-Soviet periods
-
-Research Question:
-
-- Which is the best model (parsimonious and accurate)?
-
-- Which are the essential mechanisms?
-
-- What are the cities that resist modelling?
-
-**Methodology**:
-
-- A multimodelling framework to equifinality
-
-- A modular agent-based model which leads to the single historical trajectory
-
-- Comparing the performance of different model structures
-
-- multi-calibration: different subpopulations find best performing model combination of mechanisms
-
-???
-
-The method applied in this study is based on multimodelling framework. First structre a modulised agent-based model, so it can form into different model structures. Finding the best fit model to reproduce the empirical pattern and comparing across different model structures. Also the multi-calibration with niching method is applied to calibrate model at once.
 
 ---
 
 <!-- Page 2 -->
 
-### Research Contribution
+### Content
 
-- Testing the hypothesis of urbanisation processes virtually
+<img src="1.jpg" width="100%">
 
-- Increasing the flexibility and diversity by integrating complex mechanisms into a modular model building
 
-- Calibrating large amount of models contaning a mass cities and long time periods
-
-- Intepreting cities with empirical knowledge
-
-- Identifing the actual causal mechanisms from result analysis
-
-???
-
-First, the research is able to simulate urbanisation processes virtually. And it integrated multiple mechanisms, and create a modular ABM, enabling an incremental creation of different model structures. Calibration is always the challenge of ABM. This study also contributes to calibrating large amount of models contaning mass cities and long time periods. So at the end, we can intepret cities with empirical knowledge and identify the actual causal mechanisms from result analysis.
 
 ---
 
-<!-- page 3 -->
-
-#### Research Framework and Methods
-
-![research framework](./imgs/research_framework.svg)
-
-???
-
-The authours constructed form multi generic mechanisms, combining with baseline model, to generate different model structures. By using niching method, it select the best performing model structure and parameters. Finally, it evaluate the model performance and interpret the results using statistical methods.
-
----
-
-<!-- page 4 -->
-
-#### Pros
-
-1. Modulising the model to diversify the model structures to be activated or discarded easily
-
-2. Proposing a efficient and effective method to calibrate large amount of models
-
-2. Integrating statistical methods to evaluate the simulated results and interpret the results
-
-#### Cons
-
--  Agent-based models are typically advantagous in term of small research unit, using city as research unit may not capture the full complexity of a city. 
-
-<!-- 2. The multicollinearity between mechanism seems underrepresented in the model. When add factors to the model, the model will be more complex and the result will be more difficult to interpret. The increase or decresing of one factor will affect the result of other factors, and effect the overall result. -->
-
-- It does not take into account the exogenous exchange of the FSU systems with the rest of the world
-
-- Using generic model structure is not applicable for all cities at the same time, same variable might only have different meaning in different cities.
-
-???
-
-
-Agent-based models are typically advantagous in term of small research unit, using city as research unit may oversimplified the inner factors to urbanisation. The material exchange of the FSU systems with the rest of the world is not taken into account. A generic model might not applicable to all the cities in one simulation, which lead to some overrestimation and underestimation of some cities.
-
-A seperation of cities into different groups based on their similarity might optimise the spatial characteristics of different cities.
-
-<!-- Such as complementary supply and demand between different cities. -->
-
----
-
-<!-- page 6.1 -->
-
-#### Reproducibility in the model of urban economic segregation
-
-<!-- **If you were to use this same approach to build a model of urban economic segregation, what definitions would you use for urban segregation and for economic inequality? How would these definitions impact the type of agents and of processes included in the model?** -->
-
-- Urban economic segregation: The measurement can be based on level of dissimilarity in income and wealth within a neighborhood.
-
-- Assumption: The intensify or reduce of segregation is caused by human migration or endogenous the wealth increases.
-  
-  - Urbanisation: the attractiveness of city to exogenous migrant, correlated with the economic development of the city  
-
-  - Site Effects: the resouces and amenities that are available in a particular residence.
-  
-  - Workplace proximity: the distance between the residence and workplace.
-
-      lower income people might have higher tolerance to commute time while higher income people might have preference of private transportation which is also less sensitive to distance.
-
-  - Living cost effects: the cost of living in a particular residence (Housing prices + other living cost)
-
-  - Housing Policies interferences: top-down policies regulating effects (mix-income housing, rent control or non-regulating housing market, etc.)
-
-  - Planning interferences: planning development (urban renewal, replanning, etc.)
-
-  - Migration cost: the cost of moving to a new residence (fixed cost + varied cost by accumulated living years in the current residence)
-
-???
-
-The definition of urban economic segregation is the degree of separation between different groups of people in income or wealth in a neigbourhood. The measurement of segregation can be based on level of dissimilarity in income and wealth within a neighborhood. 
-
-Also from my opinion, the direct cause of economic imbalance is from the migration, which included inner-city and cross-city migration of residents. And also the self development and increase on wealth.
-
-The outsourced migration might come from overall increase of economic development of the city, and the inter-city migration might come from the balance of living cost and living benefits. Also some sudden migration might come from replanning or urban renewal.
-
----
-
-<!-- page 7 -->
-
-#### Reproducibility
-
-- Agents: households
-
-- Research Unit: neighborhood
-
-- Processes: migration to pursue a better living benefits.
-
-- Building blocks: site effects, workplace proximity, etc.
-
-![building blocks](./imgs/proposedmechanism.svg)
-
-???
-
-From 
-
----
-
-<!-- page 8 -->
-
-#### Reproducibility
-
-**New challenges induced by this change of topic?**
-
-- When the agents being granulised, the model will be more complex. And the result will be more easilier to be effected by the noise (such as unexpected extreme events like financial crisis).
-
-  But we can seperate time period into different phases, and calibrate the model in each phase like in the sample article.
-
-- The workplace mechanism is important to workers group in their residence decision, but it is hard to acquire the workplace location from historical data for each neighbourhood. 
-
-  We might need to use the estimated workplace location of the city based on literatures and land use data to initialize the model. It could cause inaccurate issue.
-
-???
-
----
-
-<!-- page 7 -->
-
-#### Others
-
-Related parts:
-
-- The interaction between cities based on location and the covariation of the transporation development.
-
-New to me:
-
-- The multi-calibration and niching methods are new to me. It is a good idea to calibrate the model in to subpopulation group, calibrate the model in each group and increase the diversity of the model.
-
-- Using statistical methods can help to test hypotheses and identify the most important variables
-
-???
-
-I think its a great article. I definitely has a better understanding of moduler ABM and the framework of how to composite different mechanisms and how to test and compare the models. It's also an excellent example of how to use ABM to simulate urbanisation processes. And it also shows the importance of the model calibration and the interpretability of the model.
 
     </textarea>
     <script src="src/remark-latest.min.js" type="text/javascript">
