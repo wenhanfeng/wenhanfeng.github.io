@@ -52,4 +52,4 @@ All strategies have a fourfold focus, namely "W.H.A.T.". "W" stands for "wilding
 
 `Collaborators: Xiaoxuan Liu.`
 
-For the full program see [here](https://wenhanfeng.github.io/ppt1/)
+For the full program see [here](https://wenhanfeng.github.io/ppt1/#1)
