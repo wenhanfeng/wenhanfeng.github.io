@@ -50,8 +50,6 @@ All strategies have a fourfold focus, namely "W.H.A.T.". "W" stands for "wilding
 
 *Scenarios*
 
-For the full program see:
-
-
+For the full program see [here](https://github.com/wenhanfeng/wenhanfeng.github.io/blob/main/Others/EndKolloquium_W.H.A.T_Liu%20%26%20Feng.pdf)
 
 `Collaborators: Xiaoxuan Liu.`
