@@ -25,3 +25,7 @@ The old cities usually need to be demolished and transformed, which leads to a l
 *Product*
 
 `Collaborators: Yueyue Wang.`
+
+For the full paper see:
+
+Feng, W.*, Wang, Y. (2020). [Urban Memory Accessor: Mechanical Design of Interactive Installation Based on Arduino.](https://www.researchgate.net/publication/334261520_Urban_Memory_Accessor_Mechanical_Design_of_Interactive_Installation_Based_on_Arduino) Proceedings of the 2019 DigitalFUTURES. CDRF 2019. doi:10.1007/978-981-13-8153-9_31

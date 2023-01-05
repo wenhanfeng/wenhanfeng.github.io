@@ -65,3 +65,8 @@ Based on three different spatial data, this study verified the relationship of c
 To summarize, this study achieved statistical laws existing in the layout of urban spatial elements and developed an approach to quantify the features of urban structures. It provided a new perspective of urban structure to understand the complexity of a city.
 
 `Collaborators: Bayi Li, Zebin Chen, Peng Liu.`
+
+For the full paper see:
+
+Feng, W.*, Li, B., Chen, Z., Liu, P. (2021). [City Size Based Scaling of the Urban Internal Nodes Layout.](https://www.researchgate.net/publication/351084271_City_size_based_scaling_of_the_urban_internal_nodes_layout) PLOS
+ONE, 16(4): e0250348. doi:10.1371/journal.pone.0250348

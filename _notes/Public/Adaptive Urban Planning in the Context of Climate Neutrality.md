@@ -92,4 +92,4 @@ This paper discusses the sustainable requirements of urban design driven by carb
 
 For the full thesis see:
 
-Feng, Wenhan. (2023). [Adaptiver Städtebau im Kontext der Klimaneutralität (Adaptive Urban Planning in the Context of Climate Neutrality).](http://dx.doi.org/10.13140/RG.2.2.21684.53124) 10.13140/RG.2.2.21684.53124.
+Feng, Wenhan. (2022). [Adaptiver Städtebau im Kontext der Klimaneutralität (Adaptive Urban Planning in the Context of Climate Neutrality).](http://dx.doi.org/10.13140/RG.2.2.21684.53124) 10.13140/RG.2.2.21684.53124.

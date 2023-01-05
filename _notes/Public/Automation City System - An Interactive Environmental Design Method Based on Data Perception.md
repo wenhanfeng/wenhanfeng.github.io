@@ -27,3 +27,7 @@ The role of urban design and urban space creation in improving the living enviro
 <img src="../assets/img/acs-p5.png" width="100%">
 
 `Collaborators: Bayi Li, Xiaoran Guo.`
+
+For the related paper see:
+
+Feng, W.*, Li, B. (2021). [Automation City System: An Interactive Environmental Design Method Based on Data Perception: Space Renewal of Wendingfang Street, Xuhui District, Shanghai.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5heSF98r8FUPY0MuFxsS4KR63ee2FyIT-At1yd9J8XIuk%3d&uniplatform=NZKPT) 2020/2021 China Urban Planning Annual Conference. 	10.26914/c.cnkihy.2021.033743

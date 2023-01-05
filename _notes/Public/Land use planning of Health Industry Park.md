@@ -16,3 +16,7 @@ Exploring the driving mechanism of land-use distribution is one of the foundatio
 
 
 `Collaborators: Lingda Kong.`
+
+For the related paper see:
+
+Feng, W.*, Song, P., Li, B. (2021). [Application of Multi-agent System in Land Use Decision-Making of Industrial Park: A Case Study of Tianfo Health Industrial Park, Shandong. Spatial Data and Intelligence.](https://www.researchgate.net/publication/349680020_Application_of_Multi-agent_System_in_Land_Use_Decision-Making_of_Industrial_Park_A_Case_Study_of_Tianfo_Health_Industrial_Park_Shandong) Lecture Notes in Computer Science, vol 12567. doi:10.1007/978-3-030-69873-7_10
