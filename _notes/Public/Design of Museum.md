@@ -1,0 +1,13 @@
+---
+title : Design of Museum
+feed: show
+date : 27-12-2021
+---
+
+`#Design#`
+
+
+
+<img src="../assets/img/bwg-1.png" width="100%">
+
+<img src="../assets/img/bwg-2.png" width="100%">
