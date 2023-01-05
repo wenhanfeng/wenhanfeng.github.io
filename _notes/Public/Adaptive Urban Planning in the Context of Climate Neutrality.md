@@ -91,4 +91,5 @@ The figure above shows the comparison before and after optimization. In the case
 This paper discusses the sustainable requirements of urban design driven by carbon neutrality goals, and emerging technology strategies for the architecture and urban design industry in the context of carbon neutrality. In a case study, this paper presents a case of utilizing the developed indicator system to guide the generation of urban design proposals. Through the model in this paper, the urban design scheme can weigh the different requirements of users and the environment, thereby improving the adaptability of urban design to climate neutrality.
 
 For the full thesis see:
-Adaptiver Städtebau im Kontext der Klimaneutralität (Adaptive Urban Planning in the Context of Climate Neutrality) (http://dx.doi.org/10.13140/RG.2.2.21684.53124)
+
+Feng, Wenhan. (2023). [Adaptiver Städtebau im Kontext der Klimaneutralität (Adaptive Urban Planning in the Context of Climate Neutrality).](http://dx.doi.org/10.13140/RG.2.2.21684.53124) 10.13140/RG.2.2.21684.53124.
