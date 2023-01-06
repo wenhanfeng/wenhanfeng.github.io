@@ -12,12 +12,12 @@ With the help of Grasshopper and the Ameba plugin, a wall design is generated wh
 
 <img src="../assets/img/dy-1.png" width="100%">
 
-<img src="../assets/img/dy-2.gif" width="100%">
+<img src="../assets/img/dy-2.gif" width="50%">
 
 <img src="../assets/img/dy-3.png" width="100%">
 
-<img src="../assets/img/p3ddy-4.png" width="100%">
+<img src="../assets/img/dy-4.png" width="100%">
 
-<img src="../assets/img/p3ddy-5.png" width="100%">
+<img src="../assets/img/dy-5.png" width="100%">
 
 `Collaborators: Fernando Caballero, Wenzel Weikert .`

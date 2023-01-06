@@ -59,10 +59,10 @@ Through the discussion in this paper, we conclude that 3D printed clay has great
 
 <img src="../assets/img/3ddy-3.png" width="100%">
 
-<img src="../assets/img/p3ddy-4.png" width="100%">
+<img src="../assets/img/3ddy-4.png" width="100%">
 
-<img src="../assets/img/p3ddy-5.png" width="100%">
+<img src="../assets/img/3ddy-5.png" width="100%">
 
-<img src="../assets/img/p3ddy-6.png" width="100%">
+<img src="../assets/img/3ddy-6.png" width="100%">
 
 `Collaborators: Shuai Fu, Care, support: Christina Klug.`
