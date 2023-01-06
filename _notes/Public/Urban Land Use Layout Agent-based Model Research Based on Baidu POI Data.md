@@ -29,9 +29,11 @@ With the development of China's urbanization process, the demand for land use ad
 
 *Result*
 
+<img src="../assets/img/v3.gif" width="30%">
 
 
-`Collaborators: Peiyao Song, Bayi Li.`
+
+`Collaborators: Peiyao Song, Bayi Li, Lingda Kong.`
 
 For the related paper see:
 
