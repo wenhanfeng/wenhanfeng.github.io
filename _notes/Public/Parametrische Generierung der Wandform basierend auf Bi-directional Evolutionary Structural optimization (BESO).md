@@ -20,4 +20,4 @@ With the help of Grasshopper and the Ameba plugin, a wall design is generated wh
 
 <img src="../assets/img/dy-5.png" width="100%">
 
-`Collaborators: Fernando Caballero, Wenzel Weikert .`
+`Collaborators: Fernando Caballero, Wenzel Weikert.`
