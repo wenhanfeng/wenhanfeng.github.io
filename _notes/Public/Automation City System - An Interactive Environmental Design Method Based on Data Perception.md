@@ -1,7 +1,7 @@
 ---
 title : Automation City System - An Interactive Environmental Design Method Based on Data Perception
 feed: show
-date : 27-11-2021
+date : 28-11-2021
 ---
 
 `#Decision-Support-System#`

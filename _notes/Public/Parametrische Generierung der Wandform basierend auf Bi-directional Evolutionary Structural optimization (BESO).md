@@ -1,7 +1,7 @@
 ---
 title : Parametrische Generierung der Wandform basierend auf Bi-directional Evolutionary Structural optimization (BESO)
 feed: show
-date : 27-10-2021
+date : 30-10-2021
 ---
 
 `#Design#`

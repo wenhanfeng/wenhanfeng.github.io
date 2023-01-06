@@ -1,7 +1,7 @@
 ---
 title : City Size based Scaling of the Urban Internal Nodes Layout
 feed: show
-date : 27-12-2021
+date : 28-12-2021
 ---
 
 `#Research#`

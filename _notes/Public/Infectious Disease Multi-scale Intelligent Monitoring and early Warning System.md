@@ -1,7 +1,7 @@
 ---
 title : Infectious Disease Multi-scale Intelligent Monitoring and early Warning System
 feed: show
-date : 27-11-2021
+date : 26-11-2021
 ---
 
 `#Decision-Support-System#`

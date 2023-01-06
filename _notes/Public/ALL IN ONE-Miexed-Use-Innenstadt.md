@@ -1,7 +1,7 @@
 ---
 title : ALL IN ONE-Miexed-Use-Innenstadt
 feed: show
-date : 27-10-2021
+date : 28-10-2021
 ---
 
 `#Design#`
