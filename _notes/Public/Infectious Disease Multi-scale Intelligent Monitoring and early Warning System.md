@@ -10,20 +10,10 @@ From 2019 to 2020, the novel coronavirus has swept the world in a short period o
 
 <img src="../assets/img/covid-1.png" width="100%">
 
-
-
 <img src="../assets/img/covid-2.png" width="100%">
-
-
 
 <img src="../assets/img/covid-3.png" width="100%">
 
-
-
 <img src="../assets/img/covid-4.png" width="100%">
-
-
-
-
 
 `Collaborators: Yuan Zhang, Xiaoyao Yuan, Zichen Qiu, Hu Deng.`
