@@ -29,7 +29,7 @@ With the development of China's urbanization process, the demand for land use ad
 
 *Result*
 
-<img src="../assets/img/v3.gif" width="50%" align="center">
+<div align=center><img src="../assets/img/v3.gif" width="50%"></div>
 
 
 

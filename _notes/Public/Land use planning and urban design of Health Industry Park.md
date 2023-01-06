@@ -26,7 +26,7 @@ Exploring the driving mechanism of land-use distribution is one of the foundatio
 
 *Plan*
 
-<img src="../assets/img/4.gif" width="50%" align="center">
+<div align=center><img src="../assets/img/4.gif" width="50%"></div>
 
 
 `Collaborators: Lingda Kong, Peiyao Song, Bayi Li.`
