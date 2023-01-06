@@ -1,7 +1,7 @@
 ---
 title : Adaptive Urban Planning in the Context of Climate Neutrality
 feed: show
-date : 27-12-2021
+date : 27-11-2021
 ---
 
 `#Decision-Support-System#`
