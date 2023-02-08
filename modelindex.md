@@ -1,3 +1,9 @@
+---
+layout: Post
+permalink: /
+title: Wenhan Feng
+---
+
 <html>
   <head>
     <title>A simple model</title>
