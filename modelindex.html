@@ -1,0 +1,23 @@
+<body>
+  <p>NetLogo Web widget click demo.</p>
+  <iframe id="netlogo-model-frame" src="./model.html" width="1000" height="1000">
+  </iframe>
+  <script type="text/javascript">
+    function wireSurvey() {
+      const frame = document.getElementById("netlogo-model-frame")
+      if (frame.contentDocument !== null) {
+        const button = frame.contentDocument.getElementById("netlogo-button-2")
+        if (button !== null) {
+          button.addEventListener("click", () => {
+            console.log("click!")
+            window.open("https://ccl.northwestern.edu/netlogo/")
+          })
+          return
+        }
+      }
+      // Not done loading?  Try again.
+      setTimeout(wireSurvey, 500)
+    }
+    setTimeout(wireSurvey, 500)
+  </script>
+</body>

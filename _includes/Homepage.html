@@ -3,37 +3,13 @@
     <div class="home-sub-text"> <h3>
         Welcome to my homepage.
         Check out the <a href="{{'/notes' | relative_url}}"> portfolio </a>, <a href="{{'/post/cv' | relative_url}}"> cv </a> and <a href="{{'/post/blog' | relative_url}}"> news</a>.
-        <br> <br> Currently, I am a PhD student at the University of Munich, and my research topic is urban resilience modeling.
+        <br> <br> Currently, I am a PhD student at the University of Munich, and my research topic is urban resilience modeling. You can also play a <a href="{{'/modelindex.html' | relative_url}}"> model by me.
         <!--- <br> <font size=0.5> Graph visualization from webweb, GNU General Public License v3+. </font> --->
         <!--- <br> <font size=0.5>  Website template from Hiran Venugopalan, License CC-BY. </font> --->
         The graph below is my "interest tree", and my work focuses on these areas.
         <!-- <br> 目前我正在慕尼黑大学攻读博士，我的研究主题是城市韧性建模。下面的图网络是我的“兴趣树”，我的工作主要围绕着这些领域。-->
         {%- include webweb.html -%}
-        {%- include model.html -%}
 
-        <body>
-          <p>NetLogo Web widget click demo.</p>
-          <iframe id="netlogo-model-frame" src="./model.html" width="1000" height="1000">
-          </iframe>
-          <script type="text/javascript">
-            function wireSurvey() {
-              const frame = document.getElementById("netlogo-model-frame")
-              if (frame.contentDocument !== null) {
-                const button = frame.contentDocument.getElementById("netlogo-button-2")
-                if (button !== null) {
-                  button.addEventListener("click", () => {
-                    console.log("click!")
-                    window.open("https://ccl.northwestern.edu/netlogo/")
-                  })
-                  return
-                }
-              }
-              // Not done loading?  Try again.
-              setTimeout(wireSurvey, 500)
-            }
-            setTimeout(wireSurvey, 500)
-          </script>
-        </body>
 
         </h3>
 </div> </div>
