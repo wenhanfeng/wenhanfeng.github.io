@@ -10,7 +10,29 @@
         <!-- <br> 目前我正在慕尼黑大学攻读博士，我的研究主题是城市韧性建模。下面的图网络是我的“兴趣树”，我的工作主要围绕着这些领域。-->
         {%- include webweb.html -%}
 
-        {%- include NotifyModel.html -%}
+        <body>
+          <p>NetLogo Web widget click demo.</p>
+          <iframe id="netlogo-model-frame" src="./NotifyModel.html" width="600" height="600">
+          </iframe>
+          <script type="text/javascript">
+            function wireSurvey() {
+              const frame = document.getElementById("netlogo-model-frame")
+              if (frame.contentDocument !== null) {
+                const button = frame.contentDocument.getElementById("netlogo-button-2")
+                if (button !== null) {
+                  button.addEventListener("click", () => {
+                    console.log("click!")
+                    window.open("https://ccl.northwestern.edu/netlogo/")
+                  })
+                  return
+                }
+              }
+              // Not done loading?  Try again.
+              setTimeout(wireSurvey, 500)
+            }
+            setTimeout(wireSurvey, 500)
+          </script>
+        </body>
 
         </h3>
 </div> </div>
