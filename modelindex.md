@@ -5,13 +5,13 @@ title: Wenhan Feng
 ---
 
 <html>
-  <head>
+  <head style="text-align:center;>
     <title>A simple model</title>
     <link rel="icon" href="data:,">
   </head>
-  <body>
+  <body style="text-align:center;">
   <p>Simulation of Crowded Phenomenon of People Flow</p>
-  <iframe id="netlogo-model-frame" src="./model.html" width="1000" height="1000">
+  <iframe id="netlogo-model-frame" src="./model.html" width="1000" height="1500">
   </iframe>
   <script type="text/javascript">
     function wireSurvey() {
