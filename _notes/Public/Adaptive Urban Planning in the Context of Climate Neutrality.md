@@ -1,6 +1,6 @@
 ---
 title : Adaptive Urban Planning in the Context of Climate Neutrality
-feed: hide
+feed: show
 date : 27-11-2021
 ---
 
